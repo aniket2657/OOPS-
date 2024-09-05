@@ -10,8 +10,6 @@ Name of the depositor
 
 Type of account (Saving, Current etc.)
 
-7.
-
 Balance amount in the account
 
 Member Functions
@@ -23,11 +21,6 @@ Member Functions
 To withdraw an amount after checking the balance
 
 To display name and balance
-
-
-
-
-
 
 #include <iostream>
 #include <string>
